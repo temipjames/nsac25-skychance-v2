@@ -29,6 +29,7 @@ SkyChance evaluates historical weather disruptions (such as extreme heat, heavy 
 ---
 
 ## Hackathon Team & Acknowledgments
+Team Name: AIUWA NOVA
 
 This project was originally created during the **NASA Space Apps Challenge 2025**. Because the initial prototype was developed locally on a shared workspace, all team contributions are credited below:
 
