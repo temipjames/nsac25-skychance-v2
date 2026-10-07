@@ -1,0 +1,114 @@
+{
+  "51.5,-0.1": {
+    "180": {
+      "temperature": {
+        "mean": 24.8,
+        "std": 3.5,
+        "p10": 19.5,
+        "p90": 30.2,
+        "unit": "°C"
+      },
+      "precipitation": {
+        "mean": 3.2,
+        "std": 2.5,
+        "p10": 0.3,
+        "p90": 7.8,
+        "unit": "mm/day"
+      },
+      "wind_speed": {
+        "mean": 5.2,
+        "std": 2.1,
+        "p10": 2.8,
+        "p90": 8.5,
+        "unit": "m/s"
+      },
+      "humidity": {
+        "mean": 71,
+        "std": 14,
+        "p10": 52,
+        "p90": 88,
+        "unit": "%"
+      }
+    },
+    "200": {
+      "temperature": {
+        "mean": 26.1,
+        "std": 3.2,
+        "p10": 21.5,
+        "p90": 31.8,
+        "unit": "°C"
+      },
+      "precipitation": {
+        "mean": 2.8,
+        "std": 2.1,
+        "p10": 0.5,
+        "p90": 6.9,
+        "unit": "mm/day"
+      }
+    }
+  },
+  "40.7,-74.0": {
+    "180": {
+      "temperature": {
+        "mean": 28.3,
+        "std": 4.1,
+        "p10": 22.0,
+        "p90": 34.1,
+        "unit": "°C"
+      },
+      "precipitation": {
+        "mean": 4.1,
+        "std": 3.0,
+        "p10": 0.8,
+        "p90": 9.5,
+        "unit": "mm/day"
+      },
+      "wind_speed": {
+        "mean": 4.8,
+        "std": 1.9,
+        "p10": 2.5,
+        "p90": 7.8,
+        "unit": "m/s"
+      },
+      "humidity": {
+        "mean": 68,
+        "std": 11,
+        "p10": 52,
+        "p90": 81,
+        "unit": "%"
+      }
+    }
+  },
+  "default": {
+    "180": {
+      "temperature": {
+        "mean": 20.0,
+        "std": 5.0,
+        "p10": 12.0,
+        "p90": 28.0,
+        "unit": "°C"
+      },
+      "precipitation": {
+        "mean": 5.0,
+        "std": 4.0,
+        "p10": 1.0,
+        "p90": 12.0,
+        "unit": "mm/day"
+      },
+      "wind_speed": {
+        "mean": 4.0,
+        "std": 2.0,
+        "p10": 1.5,
+        "p90": 7.5,
+        "unit": "m/s"
+      },
+      "humidity": {
+        "mean": 65,
+        "std": 15,
+        "p10": 40,
+        "p90": 85,
+        "unit": "%"
+      }
+    }
+  }
+}

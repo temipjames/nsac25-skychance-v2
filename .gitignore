@@ -1,0 +1,28 @@
+# Python / Virtual Environments
+venv/
+.venv/
+env/
+Env/
+pythonenvs/
+__pycache__/
+*.pyc
+
+# Node / Frontend Dependencies
+node_modules/
+.pnpm-store/
+
+# Build Outputs & Bundles
+dist/
+build/
+
+# Environment & Secret Files (API keys, secrets)
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
