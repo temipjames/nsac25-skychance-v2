@@ -33,10 +33,10 @@ Team Name: AIUWA NOVA
 
 This project was originally created during the **NASA Space Apps Challenge 2025**. Because the initial prototype was developed locally on a shared workspace, all team contributions are credited below:
 
-* **[Hawa Modupe Danso]** – *Frontend Development & UI/UX Design*
-* **[Jonathan Umukoro]** – *Backend Architecture & Data Calculations*
-* **[Alagie Trawally]** – *NASA POWER API Integration & Analysis*
-* **[Temiloluwa James-Akinsulure]** – *Team Leader, Front-End Development & Project Maintainer*
+* **Hawa Modupe Danso** – *Frontend Development & UI/UX Design*
+* **Jonathan Umukoro** – *Backend Architecture & Data Calculations*
+* **Alagie Trawally** – *NASA POWER API Integration & Analysis*
+* **Temiloluwa James-Akinsulure** – *Team Leader, Front-End Development & Project Maintainer*
 
 [See Members on official Nasa Space Apps Challenge website](https://www.spaceappschallenge.org/2025/find-a-team/aiuwa-nova/?tab=members)
 

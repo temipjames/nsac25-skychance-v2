@@ -6,3 +6,4 @@ requests>=2.31.0
 pandas>=2.2.0
 xarray>=2024.2.0
 netcdf4>=1.6.4
+waitress
