@@ -3,7 +3,7 @@ import React from 'react';
 const ResultsDisplay = ({ results }) => {
   if (!results) return null;
 
-  const { probabilities, is_cached } = results;
+  const { probabilities } = results;
 
   // Calculate highest risk score for summary banner
   const probValues = Object.values(probabilities).map(d => d.probability || 0);
