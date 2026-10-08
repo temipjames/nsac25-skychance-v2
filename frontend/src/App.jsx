@@ -207,7 +207,7 @@ function App() {
               </div>
             ) : (
               <div className="bg-white rounded-lg shadow p-6 h-full flex items-center justify-center text-gray-500 min-h-[300px]">
-                <p className="text-center">Select location and variables, then click <strong>Analyze Weather Risk</strong> to see results.</p>
+                <p className="text-center">Click <strong>Get Weather Results</strong> to see results.</p>
               </div>
             )}
           </div>
